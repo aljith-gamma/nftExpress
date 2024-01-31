@@ -1,0 +1,14 @@
+body{
+  margin: 0;
+  font-family: sans-serif;
+}
+
+nav a {
+  text-decoration: none;
+  color: #FFF;
+  font-weight: 600;
+}
+
+nav a:focus {
+  color: violet !important
+}
